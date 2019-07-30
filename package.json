@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://igorexa81.github.io/clicky_game",
+  "homepage": "http://igorexa81.github.io/Clicky_Game",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",

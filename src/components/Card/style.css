@@ -1,11 +1,7 @@
 .card {
   background: #fff;
   border-radius: 2px;
-  /* margin: 1rem;
-  margin-right: 40px;
-  position: relative;
-  width: 200px;
-  text-align: left; */
+ 
   margin:2%;
   flex-basis:29.3%;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
