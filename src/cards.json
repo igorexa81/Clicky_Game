@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ayrton Senna",
+     "image":"https://statics.sportskeeda.com/editor/2018/11/2c413-15417824901854-800.jpg",
+     "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Michael Schumacher",
+    "image": "https://i.dailymail.co.uk/1s/2018/11/29/10/6788452-0-image-m-3_1543486555087.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Alain Prost",
+    "image": "https://www.essentiallysports.com/wp-content/uploads/2015/10/prost-1032506.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Mika Hakkinen",
+    "image": "https://chartwellspeakers.b-cdn.net/wp-content/uploads/2018/04/Mika-Hakkinen-e1523884069354.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Niki Lauda",
+    "image": "https://www.tifoblog.it/wp-content/uploads/2019/05/Niki-Lauda.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "James Hunt",
+    "image": "http://autoetecnica.band.uol.com.br/wp-content/uploads/2013/09/j1.gif",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Sebastian Vettel",
+    "image": "https://zazabava.com/wp-content/uploads/2019/05/9fc2b779535cc4fb624583e3fbe2f637.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Jacques Villeneuve",
+    "image": "https://cs9.pikabu.ru/post_img/2017/10/27/7/15091014641187344.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Jarno Trulli",
+    "image": "https://s-media-cache-ak0.pinimg.com/736x/0b/56/c9/0b56c992444c42f1b2bb2812eac8c9cd--jarno-trulli-minardi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Mark Webber",
+    "image": "https://www.latimes.com/resizer/fQWG48c7CAe0xhsFDET1waxu8EU=/800x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/IWWPVN4THZCXLEPVCS4TYYWJAE.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Nelson Piquet",
+    "image": "https://ilovevaquero.com/images/sport-i-fitnes/avtogonshik-nelson-pike-biografiya-dostizheniya-semya-i-interesnie-fakti_2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Fernando Alonso",
+    "image": "https://f1i.com/wp-content/uploads/2016/10/Fernando-Alonso-Crop-725x500.jpg",
+    "clicked": false
+  }
+]
